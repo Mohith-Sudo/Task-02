@@ -1,2 +1,3 @@
 # Task-02
-Creating An Mock Stopwatch Application 
+Track time effortlessly with our sleek and precise stopwatch app-
+perfect for every moment that counts!!
